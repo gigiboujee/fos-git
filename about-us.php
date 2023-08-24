@@ -56,14 +56,14 @@ include_once('includes/dbconnection.php');
                                 <div class="sec-box">
                                 <div class="about-feat text-center wow fadeIn" data-wow-delay="0.2s">
                                     <h2 class="title3" itemprop="headline">The Face Behind it All</h2>
-                                    <img src="assets/images/resource/about-img.jpg" alt="about-img.jpg" itemprop="image">
+                                    <img src="assets/images/about-img.jpeg" alt="about-img.jpeg" itemprop="image">
                                 </div>
                                
                              
                                 <div class="title1-wrapper text-center style2">
                                     <div class="title1-inner">
                                         <h2 itemprop="headline">About us</h2>
-                                        <p itemprop="description"><p>Lorem ipsum dolor sit amet laborum.</p></p>
+                                        <p itemprop="description"><p>Ghislaine Angoulangouli, a visionary and trailblazing CEO, has revolutionized the culinary landscape with her innovative approach to dining experiences. As the driving force behind the creation and establishment of the fast-food online management system, her dynamic leadership has not only disrupted the conventional restaurant model but has also introduced a refreshing paradigm shift in the way we engage with food. With an unyielding commitment to excellence and a keen eye for opportunities, Ghislaine identified the need for a seamless, efficient, and modern dining solution that would transcend the limitations of traditional restaurants. Her commitment to redefining norms, embracing technology, and enhancing customer satisfaction resonates through every word. Her mission to bridge the gap between traditional dining and contemporary lifestyles, while fostering a sense of community among food enthusiasts, is evident in the passion that permeates the page. As the founder and CEO of Gigi’s, Ghislaine Angoulangouli indomitable spirit continues to drive the evolution of the fast food online management system, inspiring a new era where culinary excellence meets digital innovation, all within the virtual walls of a dining experience like no other.</p></p>
                                     </div>
                                 </div>
                                
